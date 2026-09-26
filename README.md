@@ -2,3 +2,4 @@
 Adding Chapter 12 updates for review
 Adding additional tweaks for page 178
 Adding new feature updates for PR assignment.
+Reviewed and updated during PR walkthrough.
